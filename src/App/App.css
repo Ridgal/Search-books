@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&family=Quicksand&family=Raleway:wght@300&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container {
+    @apply max-w-[1280px]
+  }
+  :active, :hover, :focus {
+    outline: 0;
+    outline-offset: 0;
+  }
+  body {
+    background-image: url('https://images.wallpaperscraft.ru/image/single/derevyannyy_temnyy_fon_tekstura_55321_1920x1080.jpg');
+    /* background: rgb(15, 23, 42); */
+    position: relative;
+    background-attachment: fixed;
+  }
+};
+
+
+
+
