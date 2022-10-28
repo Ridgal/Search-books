@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Books (Google API) using Typescript, RTK, Tailwind CSS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
